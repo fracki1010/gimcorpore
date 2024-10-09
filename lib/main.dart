@@ -43,6 +43,7 @@ class _HomeState extends State<_Home> {
         appBar: AppBar(
           title: const Text('Gimnasio Corpore sano'),
           centerTitle: true,
+          backgroundColor: Colors.red,
         ),
         body: FutureBuilder(
           future: getMuscles(),
