@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "939409971323",
+    "project_id": "gimnasio-corporesano",
+    "storage_bucket": "gimnasio-corporesano.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939409971323:android:4cfcefe01290451aa5aade",
+        "android_client_info": {
+          "package_name": "com.francogaldame.gimnasiocorporesano"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHrYakGyXPIgV7mQcZa4tnfD9xc0zv0s0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
